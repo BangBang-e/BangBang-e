@@ -1,4 +1,4 @@
-# Good day! 👋
+<h2>Good day! 👋</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/BangBang-e)
 
@@ -6,14 +6,14 @@
  Hello! I work as a visual designer in South Korea.<br>
  Recently, I am interested in studying Web-Programming to be a Front-End developer.<br>
 <br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bangbang-e" height="165">
+
 ### What I Like
  🎬 Movie<br>
  🖼️ Art<br>
  🍕 Pizza<br>
 <br>
 
-### If You Want to
+### If You Want to <img align='right' src="https://github-readme-stats.vercel.app/api?username=bangbang-e" height="165">
  Visit my Tech blog or see my Artworks...!<br>
  👇👇👇
  

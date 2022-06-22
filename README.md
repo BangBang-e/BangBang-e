@@ -16,11 +16,7 @@
 #### If You Want to
  Visit my Tech blog or see my Artworks...!<br>
  👇👇👇
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bangbang-e.github.io/)](https://bangbang-e.github.io/)
-[![Instagram Badge](http://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=github&link=https://www.instagram.com/0oosett_toy/)](https://www.instagram.com/0oosett_toy/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:youngjae7133@gmail.com)
-
+ 
 <a href="https://bangbang-e.github.io" title="Tech Blog" target="_blank">
 <img src="https://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=Github&logoColor=white">
 </a>

@@ -1,19 +1,19 @@
-<h2>Good day! 👋</h2>
+<h1>Good day! 👋</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/BangBang-e)
 
-### Who Am I
+<h2>Who Am I</h2>
  Hello! I work as a visual designer in South Korea.<br>
  Recently, I am interested in studying Web-Programming to be a Front-End developer.<br>
 <br>
 
-### What I Like
+<h2>What I Like</h2>
  🎬 Movie<br>
  🖼️ Art<br>
  🍕 Pizza<br>
 <br>
 
-### If You Want to <img align='right' src="https://github-readme-stats.vercel.app/api?username=bangbang-e" height="165">
+<h2>If You Want to</h2> <img align='right' src="https://github-readme-stats.vercel.app/api?username=bangbang-e" height="165">
  Visit my Tech blog or see my Artworks...!<br>
  👇👇👇
  

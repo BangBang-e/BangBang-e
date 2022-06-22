@@ -5,4 +5,4 @@ If you want to contact me, please send me an e-mail
 
 📫 : youngjae7133@gmail.com
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bangbang-e.github.io//)]
+(http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bangbang-e.github.io//)

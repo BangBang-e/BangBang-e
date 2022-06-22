@@ -21,4 +21,4 @@
 [![Instagram Badge](http://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=github&link=https://www.instagram.com/0oosett_toy/)](https://www.instagram.com/0oosett_toy/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:youngjae7133@gmail.com)
 
-<a href="mailto:youngjae7133@gmail.com" target="_blank" img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+<a href="mailto:youngjae7133@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"></a>

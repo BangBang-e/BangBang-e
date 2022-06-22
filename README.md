@@ -26,3 +26,5 @@
 <a href="mailto:youngjae7133@gmail.com" title="G-mail" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white">
 </a>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bangbang-e" height="165">

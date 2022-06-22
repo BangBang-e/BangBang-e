@@ -21,11 +21,12 @@
 [![Instagram Badge](http://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=github&link=https://www.instagram.com/0oosett_toy/)](https://www.instagram.com/0oosett_toy/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:youngjae7133@gmail.com)
 
-
+<a href="https://bangbang-e.github.io" title="Tech Blog" target="_blank">
+<img src="https://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=Techblog&logoColor=white"/>
+</a>
 <a href="https://www.instagram.com/0oosett_toy" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
- 
+</a> 
 <a href="mailto:youngjae7133@gmail.com" title="G-mail" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>

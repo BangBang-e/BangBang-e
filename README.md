@@ -1,7 +1,8 @@
 <h1>Good day! 👋</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/BangBang-e)
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=jae7720@naver.com)](https://solved.ac/jae7720@naver.com)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=BangBang-e)](https://solved.ac/BangBang-e)
 
 <h3>Who Am I</h3>
  Hello! I work as a visual designer in South Korea.<br>

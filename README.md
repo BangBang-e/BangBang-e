@@ -18,7 +18,7 @@
  Visit my Tech blog or see my Artworks...!<br>
  👇👇👇<br>
 <br>
-<a href="https://www.notion.so/BangBang-e-1f732876cdb144dca4bdd0d32eb3b284" title="Tech Blog" target="_blank">
+<a href="https://bangbang-e.oopy.io/" title="Tech Blog" target="_blank">
 <img src="https://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/0oosett_toy" title="Instagram" target="_blank">

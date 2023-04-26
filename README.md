@@ -4,11 +4,12 @@
 
 <h3>Who Am I</h3>
  Hello!<br>
- My goal is to create a user-friendly and functionally complete service through my technical and design skills.<br>
+ My goal is to create user-friendly and functionally perfect services through my technical and design skills.<br>
  <br>
- When I worked as a designer, I had an opportunity to manage some of the company's homepages by chance.<br>
- That was the first time I encountered coding. I was fascinated by the ability to build services that provide<br>
- convenience to users directly or indirectly, so I decided to become a front-end developer.<br>
+ While working as a designer, I had the opportunity to manage a company's website and happened to start coding for the first time.<br>
+ <br>
+ After that, I was fascinated by the ability to build services that directly or indirectly provide convenience to users,<br>
+ so I decided to become a front-end developer to be able to build such services.<br>
 <br>
 
 <h3>What I Like</h3>

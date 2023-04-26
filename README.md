@@ -7,7 +7,6 @@
  My goal is to create user-friendly and functionally perfect services through my technical and design skills.<br>
  <br>
  While working as a designer, I had the opportunity to manage a company's website and happened to start coding for the first time.<br>
- <br>
  After that, I was fascinated by the ability to build services that directly or indirectly provide convenience to users,<br>
  so I decided to become a front-end developer to be able to build such services.<br>
 <br>

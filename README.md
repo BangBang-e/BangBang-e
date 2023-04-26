@@ -3,8 +3,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/BangBang-e)
 
 <h3>Who Am I</h3>
- Hello! I work as a visual designer in South Korea.<br>
- Recently, I am interested in studying Web-Programming to be a Front-End developer.<br>
+ Hello!<br>
+ My goal is to create a user-friendly and functionally complete service through my technical and design skills.<br>
+ <br>
+ When I worked as a designer, I had an opportunity to manage some of the company's homepages by chance.<br>
+ That was the first time I encountered coding. I was fascinated by the ability to build services that provide<br>
+ convenience to users directly or indirectly, so I decided to become a front-end developer.<br>
 <br>
 
 <h3>What I Like</h3>
